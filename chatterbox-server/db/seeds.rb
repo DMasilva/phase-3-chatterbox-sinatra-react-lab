@@ -1,3 +1,5 @@
+
+
 puts "🌱 Seeding messages..."
 
 Message.create([
